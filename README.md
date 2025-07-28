@@ -1,4 +1,4 @@
-# Indian Startup Ecosystem Dashboard
+# Startup Analysis (India)
 
 ## Overview
 This Power BI dashboard provides an in-depth analysis of the Indian startup ecosystem. It covers funding patterns, investor involvement, startup growth, and market potential — helping stakeholders make informed, data-driven decisions.
